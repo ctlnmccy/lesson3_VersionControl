@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+June 1, 2018
 
 ## Student Name:  
-(First and Last Name)
+Caitlin McCoy
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Assignment 3 was to set up a Github account, link it to your Cloud9, and summarize 5 key concepts learned in the assignment 3 readings. These readings contained all the information to know about Github and getting set up with an account. 
+
+## View Project:
+https://ctlnmccy.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned out what a Github was and how to set one up. 
+2. I learned how to add an SSH key to my Github and did so with my Cloud9 key. 
+3. I learned how to back up local files to the local repository and how to back up local files to the remote repository. 
 
